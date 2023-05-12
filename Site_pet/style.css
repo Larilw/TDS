@@ -1,0 +1,53 @@
+*{
+    margin: 0 0 0 0;
+    background-color: #c0c0c0;
+    font-family: Verdana;
+    font-size: 12px;
+}
+#topo{
+    width: 100%;
+    height: 80px;
+    background-color: aquamarine;
+}
+#logo{
+    width: 30%;
+    height: 80px;
+    float: left;
+}
+#busca-topo{
+    width: 30%;
+    height: 80px;
+    background-color: greenyellow;
+    float: left;
+    padding-left: 5%;
+}
+#menu-topo{
+    width: 30%;
+    height: 80px;
+    background-color: orange;
+    float: right;
+}
+#banner{
+    width: 100%;
+    height: 370px;
+    background-color: blueviolet;
+}
+#busca-input{
+    font-size: 20px;
+    width: 80%;
+    height: 30px;
+    background-color: whitesmoke;
+    
+}
+#menu-topo a{
+    font-size: 25px;
+    color: whitesmoke;
+    background-color: orange;
+}
+.componente{
+    width: 25%;
+    height: 250px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+    float: left;
+}
